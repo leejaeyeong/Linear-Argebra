@@ -1,10 +1,10 @@
 <h1> Linear Algebra  </h1>  
   
-A Modern Introduction, 4th  
+#### A Modern Introduction, 4th  
 
 <h2>System of Linear equations</h2>  
   
- #### 2_1 - [연립일차방정식 소개](https://github.com/leejaeyeong/Linear-Argebra/blob/master/2_1.py)  
+ #### 2_1 - [연립일차방정식](https://github.com/leejaeyeong/Linear-Argebra/blob/master/2_1.py)  
  #### 2_2 - [연립일차방정식의 직접 풀이](https://github.com/leejaeyeong/Linear-Argebra/blob/master/2_2.py)  
  #### 2_3 - [생성원 집합과 일차독립](https://github.com/leejaeyeong/Linear-Argebra/blob/master/2_3.py)  
  #### 2_4 - [응용](https://github.com/leejaeyeong/Linear-Argebra/blob/master/2_4.py)
